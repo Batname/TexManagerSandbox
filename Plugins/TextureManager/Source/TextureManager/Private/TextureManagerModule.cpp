@@ -25,4 +25,4 @@ void FTextureManagerModule::ShutdownModule()
 
 #undef LOCTEXT_NAMESPACE
 	
-IMPLEMENT_MODULE(FTextureManagerModule, TextureManagerModule)
+IMPLEMENT_MODULE(FTextureManagerModule, TextureManager)

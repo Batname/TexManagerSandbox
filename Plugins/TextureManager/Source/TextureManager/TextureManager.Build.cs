@@ -43,8 +43,7 @@ public class TextureManager : ModuleRules
                 "Renderer",
                 "RenderCore",
                 "HeadMountedDisplay",
-                "UtilityShaders",
-                "ShaderCore"
+                "UtilityShaders"
 			}
 			);
 
